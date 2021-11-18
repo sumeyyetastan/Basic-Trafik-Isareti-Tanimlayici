@@ -1,1 +1,1 @@
-# Basic-Trafik-areti-Tan-mlay-c-
+# Basic-Trafik-Isareti-Tanimlayici
